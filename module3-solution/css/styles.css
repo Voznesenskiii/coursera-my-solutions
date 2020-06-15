@@ -36,6 +36,9 @@
 
 #nav-list a {
     color: white;
+    font-weight: bold;
+    background: #2772e8;
+    border-bottom: 2px solid #0A5ADA;
 }
 
 #nav-list a:hover {
